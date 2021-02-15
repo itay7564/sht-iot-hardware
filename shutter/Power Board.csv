@@ -1,0 +1,15 @@
+"sep=;"
+"Part";"Value";"Device";"Package";"Description";"";
+"3.3VREG";"MCP1825ST";"MCP1825ST-3302E/DB";"SOT223";"";"";
+"AC/DC";"IRM-03-5";"IRM_03IRM_03";"IRM_03";"3 watt";"";
+"C1";"2uF";"C";"C0805";"CAPACITOR, European symbol";"";
+"C2";"2uF";"C";"C0805";"CAPACITOR, European symbol";"";
+"D1";"1A";"DIODESOD-123";"SOD-123";"Diode";"";
+"J1";"9994980000";"9994980000";"9994980000";"";"";
+"J2";"";"CONN_06FEMALE_LOCK";"1X06_FEMALE_LOCK.010";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";
+"K1";"G6DN-1A-L DC5";"OMRON_G6DN-1A_DC5OMRON_G6DN-1A_DC5_0_0";"OMRON_G6DN-1A_DC5_0";"General Purpose Relays 1 Form A w/ 5VDC 5A, EN61010-2-201";"";
+"K2";" G6DN-1A-L DC5";"OMRON_G6DN-1A_DC5OMRON_G6DN-1A_DC5_0_0";"OMRON_G6DN-1A_DC5_0";"General Purpose Relays 1 Form A w/ 5VDC 5A, EN61010-2-201";"";
+"K3";"PE014005";"PE014005";"RELAY5-PE_CO";"";"";
+"T1";"NUD3124LT1G";"NUD3124LT1G";"SOT23";"";"";
+"T2";"NUD3124LT1G";"NUD3124LT1G";"SOT23";"";"";
+"T3";"NUD3124LT1G";"NUD3124LT1G";"SOT23";"";"";

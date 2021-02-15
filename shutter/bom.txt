@@ -1,0 +1,23 @@
+Partlist
+
+Exported from Power Board.brd at 05-Nov-20 19:12
+
+EAGLE Version 9.3.0 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package              Library                Position (mil)        Orientation
+
+3.3VREG  MCP1825ST      SOT223               boilerparts            (1795.27559 370.07874) MR270
+AC/DC    IRM-03-5       IRM_03               meanwell_irm_v7        (1735.03937 754.33071) R270
+C1       2uF            C0805                eagle-ltspice          (1818.89764 547.24409) MR180
+C2       2uF            C0805                eagle-ltspice          (1795.27559 177.16535) MR0
+D1       1A             SOD-123              adafruit               (1559.05512 338.58268) MR270
+J1       9994980000     9994980000           Weidmuller 9994980000  (724.40945 1110.23622) MR180
+J2                      1X06_FEMALE_LOCK.010 SparkFun-Connectors    (657.48031 102.3622)  R0
+K1       G6DN-1A-L DC5  OMRON_G6DN-1A_DC5_0  Omron - G6DN-1A DC5    (1045.66929 618.50394) R90
+K2        G6DN-1A-L DC5 OMRON_G6DN-1A_DC5_0  Omron - G6DN-1A DC5    (771.25984 618.50394) R90
+K3       PE014005       RELAY5-PE_CO         SCHRACK-PE014005       (232.67717 972.44094) R180
+T1       NUD3124LT1G    SOT23                NUD3124LT1G            (1118.11024 248.0315) MR0
+T2       NUD3124LT1G    SOT23                NUD3124LT1G            (830.70866 248.0315)  MR0
+T3       NUD3124LT1G    SOT23                NUD3124LT1G            (358.26772 248.0315)  MR0
